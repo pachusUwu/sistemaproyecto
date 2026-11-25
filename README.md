@@ -33,7 +33,7 @@ g++ src/main.cpp -o src/sistemaproyecto.exe
 ## Ramas
 
 - `main` – versiones estables
-- `development` – desarrollo diario; se integra a `main` con merge
+- `development` – desarrollo diario; se integra a `main` con merge.
 
 ## Documentación
 
